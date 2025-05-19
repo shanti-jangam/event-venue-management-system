@@ -1,8 +1,17 @@
+
+<div align="center">
+
 # TeamUp
+
+### [Demo Website](https://blue-rock-0d2af4e10.6.azurestaticapps.net/)
+
+TeamUp is a modern sports venue and event management platform built with modern web technologies and a microservices architecture that revolutionizes how sports venues are discovered, booked, and managed, while also providing comprehensive event organization capabilities
+
+</div>
 
 ## Overview
 
-TeamUp is a modern sports venue and event management platform built with modern web technologies and a microservices architecture that revolutionizes how sports venues are discovered, booked, and managed, while also providing comprehensive event organization capabilities. The platform serves three primary user groups:
+The platform serves three primary user groups:
 
 1. **Venue Owners**
    - Manage multiple venues
@@ -25,7 +34,7 @@ TeamUp is a modern sports venue and event management platform built with modern 
    - Track favorite venues and events
    - Participate in organized events
 
-## 🚀 Features
+##  Features
 
 ### Core Services
 
@@ -70,22 +79,13 @@ TeamUp is a modern sports venue and event management platform built with modern 
 - Email notification system
 - Search and filtering capabilities
 
-## 🏗 Architecture
+##  Architecture
 
 ### System Design
 
-```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│    Frontend     │     │   API Gateway   │     │  Microservices  │
-│  (React + MUI)  │◄───►│   (Express.js)  │◄───►│  (Node.js)      │
-└─────────────────┘     └─────────────────┘     └─────────────────┘
-                                                         │
-                                                         ▼
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│   Supabase      │     │    Stripe       │     │    External     │
-│  (PostgreSQL)   │◄───►│  (Payments)     │◄───►│    Services     │
-└─────────────────┘     └─────────────────┘     └─────────────────┘
-```
+
+<img width="532" alt="Screenshot 2025-05-19 at 4 30 21 PM" src="https://github.com/user-attachments/assets/9d65c91b-1c38-488e-8b35-0debd62144cb" />
+
 
 ### Component Details
 
@@ -102,7 +102,7 @@ TeamUp follows a microservices architecture with the following components:
 - **File Storage**: Supabase Storage
 - **DevOps**: GitHub Actions (CI/CD) + Docker + Jenkins + JIRA
 
-## 🎯 Key Features
+## Key Features
 
 - **User Authentication**
   - Users (sports enthusiasts and venue owners) can sign up and log in using email/password or OAuth (Google)
@@ -153,7 +153,7 @@ TeamUp follows a microservices architecture with the following components:
   - User-friendly frontend messages
   - Retry prompts and sanitized backend responses
 
-## 📚 What I Learned
+## What I Learned
 
 - **Authentication Systems**
   - Implemented advanced login flows with JWT, OAuth, and Duo MFA
