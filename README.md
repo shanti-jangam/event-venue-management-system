@@ -1,6 +1,7 @@
 
 <div align="center">
-
+<img width="152" alt="Screenshot 2025-05-19 at 4 35 20 PM" src="https://github.com/user-attachments/assets/67a945fa-33b8-414f-aec8-77b9c848714a" />
+   
 # TeamUp
 
 ### [Demo Website](https://blue-rock-0d2af4e10.6.azurestaticapps.net/)
@@ -8,6 +9,8 @@
 TeamUp is a modern sports venue and event management platform built with modern web technologies and a microservices architecture that revolutionizes how sports venues are discovered, booked, and managed, while also providing comprehensive event organization capabilities
 
 </div>
+
+<img width="593" alt="Screenshot 2025-05-19 at 4 41 24 PM" src="https://github.com/user-attachments/assets/a075733d-7b00-4bdc-8811-0b8f29377d6b" />
 
 ## Overview
 
