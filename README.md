@@ -8,9 +8,9 @@
 
 TeamUp is a modern sports venue and event management platform built with modern web technologies and a microservices architecture that revolutionizes how sports venues are discovered, booked, and managed, while also providing comprehensive event organization capabilities
 
-</div>
-
 <img width="593" alt="Screenshot 2025-05-19 at 4 41 24 PM" src="https://github.com/user-attachments/assets/a075733d-7b00-4bdc-8811-0b8f29377d6b" />
+
+</div>
 
 ## Overview
 
